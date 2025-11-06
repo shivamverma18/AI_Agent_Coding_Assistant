@@ -1,0 +1,4 @@
+
+uvicorn main:app --reload       #---> for running Backend(FastAPI)
+
+streamlit run app.py           #---> for running frontend(streamlit)
