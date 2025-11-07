@@ -1,7 +1,7 @@
 # AI_Agent_Coding_Assistant
 An AI AGENT for Coding Assistant
 
-- Live Demo 
+- Live Demo (Wait for 2-5 sec to Load the Visuals)
 ![06 11 2025+11_45GIF](https://github.com/user-attachments/assets/559cec32-37c7-4a87-b022-99f0926aedd0)
 
 
